@@ -1,5 +1,7 @@
 <h1>Olá 👋, eu sou o Glendon Souza!</h1>
 
+Estou em transição de carreira, indo para o último semestre de Engenharia Mecânica e estagiando em uma indústria de arames. Em maio desse ano, decidi me jogar no mundo da tecnologia de vez e comecei meus estudos de desenvolvimento WEB e pretendo iniciar uma pós na área em tecnologia ainda este ano. Por enquanto estou intercalando universidade, estágio e desenvolvimento. Estou a procura de uma oportunidade de estágio ou Junior para poder me dedicar 100% na área.
+
 - 🔭 Procurando oportunidades de Front-End Junior 
 - 🌱 Estudando JavaScript, HTML e CSS 
 - 🎮 Adoro jogar CSGO!
