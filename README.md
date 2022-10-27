@@ -4,7 +4,6 @@ Estou em transição de carreira, indo para o último semestre de Engenharia Mec
 
 - 🔭 Procurando oportunidades de Front-End Junior 
 - 🌱 Estudando JavaScript, HTML e CSS 
-- 🎮 Adoro jogar CSGO!
 
 ##
 
