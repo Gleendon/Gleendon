@@ -1,9 +1,9 @@
 <h1>Olá 👋, eu sou o Glendon Souza!</h1>
 
-Estou em transição de carreira, indo para o último semestre de Engenharia Mecânica e estagiando em uma indústria de arames. Em maio desse ano, decidi me jogar no mundo da tecnologia de vez e comecei meus estudos de desenvolvimento WEB e pretendo iniciar uma pós na área em tecnologia ainda este ano. Por enquanto estou intercalando universidade, estágio e desenvolvimento. Estou a procura de uma oportunidade de estágio ou Junior para poder me dedicar 100% na área.
+Estou em transição de carreira, indo para o último semestre de Engenharia Mecânica e estagiando em uma indústria de arames. Em maio desse ano, decidi me jogar no mundo da tecnologia de vez e comecei meus estudos de desenvolvimento WEB. Por enquanto estou intercalando universidade, estágio e desenvolvimento. Estou a procura de uma oportunidade de estágio ou Junior para poder me dedicar 100% na área.
 
-- 🔭 Procurando oportunidades de Front-End Junior 
-- 🌱 Estudando JavaScript, HTML e CSS 
+- 🔭 Procurando oportunidades na área de Desenvolvimento WEB 
+- 🌱 Estudando JavaScript, HTML, CSS, JAVA, SQL.
 
 ##
 
@@ -25,4 +25,7 @@ Estou em transição de carreira, indo para o último semestre de Engenharia Mec
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://camo.githubusercontent.com/ef8a5aaa11f861e3692439d030c83a18d6d5ebc387d6e74ca4bba728aaeac7ad/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667)">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg">
+  
 </div>
