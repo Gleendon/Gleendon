@@ -29,6 +29,16 @@ Agradeço antecipadamente a oportunidade de me candidatar e aguardo ansiosamente
   
 <div style="display: inline_block" align="center"><br>
   <h2>Minhas Skills</h2>
- [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,idea,maven,js,html,css,c,github&theme=light)](https://skillicons.dev)
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg">
+  <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">   
+  <img align="center" alt="ideia" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg">
+  <img align="center" alt="maven" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg"> 
+  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="mongo" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg">
+  <img align="center" alt="postgre" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   
 </div>
